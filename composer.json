@@ -1,0 +1,9 @@
+{
+    "name": "text-emotions/text-emotions",
+    "description": "text-emotions",
+    "autoload": {
+        "psr-4": {
+            "wapmorgan\\TextEmotions\\": "src/"
+        }
+    }
+}
